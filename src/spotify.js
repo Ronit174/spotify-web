@@ -1,5 +1,5 @@
 export const authEndPoint= "https://accounts.spotify.com/authorize";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://pacific-fjord-52957.herokuapp.com/";
 const clientId ="204362c3fcbb42c68400c12547bf1e2f";
 
 const scopes = [
