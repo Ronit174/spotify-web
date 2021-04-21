@@ -5,7 +5,7 @@ export const initialState = {
     item: null,
 
     //Remove after finish developing
-   //token: null,
+   token: null,
 };
 
 const reducer =(state, action)=>{
